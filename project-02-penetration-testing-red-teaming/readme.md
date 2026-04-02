@@ -40,9 +40,9 @@ A full penetration test and red team engagement across multiple targets — a we
 
 ## Reviewer Feedback
 
-> *"Well done on gaining remote access to the debianx64DMZOnCloudNew. You have used the Hydra Tool to perform the brute force attack, which assisted in revealing the credentials. I'm really impressed with your dedication and the final result."*
+> *"You've worked really hard, and it shows. I appreciate your dedication and enthusiasm. It's been a pleasure watching your progress on this project. You've really come a long way."*
 
-> *"Your work meets all the requirements. The spirit shown by you can be clearly seen. You have done an exceptional job with this project submission."*
+> *"Work done on this project submission is prominent! Your project meets all the requirements. The spirit shown by you can be clearly seen. You have done a exceptional job with this project submission."*
 
 > *"I really see a bright future in front of you after reviewing such a great report. Keep up the good work!"*
 
